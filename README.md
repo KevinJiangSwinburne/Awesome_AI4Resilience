@@ -4,18 +4,24 @@ This repository collects and categorizes resilience-related papers, organized in
 
 ---
 
-# 001_Math Definition
+# I_Math Definition
 ## a. Formal Definitions
-- [Paper Title](paper_link) | [Code](code_link)  
-  *Short note about the contribution.*
+- [001_Resilience of the internet to random breakdowns]([paper_link](https://arxiv.org/abs/cond-mat/0007048)) | [Code](No Code)  
+  *General Definition for Systen Resilience.*
 
-## b. Metrics & Indicators
+- [002_Self-organized patchiness in asthma as a prelude to catastrophic shifts]([paper_link](https://www.nature.com/articles/nature03490)) | [Code](No Code)  
+  *General Definition for System Resilience in Human society.*
+
+- [003_Quantifying the connectivity of a network: The network correlation function method]([paper_link](https://arxiv.org/abs/0910.3366)) | [Code](No Code)  
+  *General Definition for Systen Resilience in Ecology.*
+
+## b. Simulation Method
 - [Paper Title](paper_link) | [Code](code_link)  
   *Short note about the methodology.*
 
 ---
 
-# 002_Dimension Reduction
+# II_Dimension Reduction
 ## a. Theoretical Methods
 - [Paper Title](paper_link) | [Code](code_link)  
   *Short note about the approach (e.g., PCA, manifold learning, contrastive methods).*
@@ -26,7 +32,7 @@ This repository collects and categorizes resilience-related papers, organized in
 
 ---
 
-# 003_Application
+# III_Application
 ## a. Resilience in Power Supply
 - [Paper Title](paper_link) | [Code](code_link)  
   *Short note about grid-level or microgrid resilience.*
