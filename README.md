@@ -4,7 +4,7 @@ This repository collects and categorizes resilience-related papers, organized in
 
 ---
 
-# I_Math Definition
+# 1st_Math Definition
 ## a. Formal Definitions
 - [001_Resilience of the internet to random breakdowns]([paper_link](https://arxiv.org/abs/cond-mat/0007048)) | [Code](No Code)  
   *General Definition for Systen Resilience.*
@@ -21,7 +21,7 @@ This repository collects and categorizes resilience-related papers, organized in
 
 ---
 
-# II_Dimension Reduction
+# 2rd_Dimension Reduction
 ## a. Theoretical Methods
 - [Paper Title](paper_link) | [Code](code_link)  
   *Short note about the approach (e.g., PCA, manifold learning, contrastive methods).*
@@ -32,7 +32,7 @@ This repository collects and categorizes resilience-related papers, organized in
 
 ---
 
-# III_Application
+# 3rd_Application
 ## a. Resilience in Power Supply
 - [Paper Title](paper_link) | [Code](code_link)  
   *Short note about grid-level or microgrid resilience.*
