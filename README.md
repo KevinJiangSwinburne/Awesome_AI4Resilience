@@ -6,14 +6,15 @@ This repository collects and categorizes resilience-related papers, organized in
 
 # 1st_Math Definition
 ## a. Formal Definitions
-- [001_Resilience of the internet to random breakdowns]([paper_link](https://arxiv.org/abs/cond-mat/0007048)) | [Code](No Code)  
-  *General Definition for Systen Resilience.*
+- [001_Resilience of the internet to random breakdowns](https://arxiv.org/abs/cond-mat/0007048) | [Code](No Code)  
+  *General Definition for System Resilience.*
 
-- [002_Self-organized patchiness in asthma as a prelude to catastrophic shifts]([paper_link](https://www.nature.com/articles/nature03490)) | [Code](No Code)  
+- [002_Self-organized patchiness in asthma as a prelude to catastrophic shifts](https://www.nature.com/articles/nature03490) | [Code](No Code)  
   *General Definition for System Resilience in Human society.*
 
-- [003_Quantifying the connectivity of a network: The network correlation function method]([paper_link](https://arxiv.org/abs/0910.3366)) | [Code](No Code)  
-  *General Definition for Systen Resilience in Ecology.*
+- [003_Quantifying the connectivity of a network: The network correlation function method](https://arxiv.org/abs/0910.3366) | [Code](No Code)  
+  *General Definition for System Resilience in Ecology.*
+
 
 ## b. Simulation Method
 - [Paper Title](paper_link) | [Code](code_link)  
